@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # 커트라인
 
 N, k = list(map(int, input().split()))

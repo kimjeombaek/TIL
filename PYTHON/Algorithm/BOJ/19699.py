@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # 소-난다
 
 N, M = map(int, input().split())
